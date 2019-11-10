@@ -6,3 +6,5 @@ following along with GitHub for dummies book...
 ## My hobbies
 
 ## My work
+
+![skisuitshot](skipak.jpg)
